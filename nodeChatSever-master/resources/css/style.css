@@ -1,0 +1,12 @@
+.msg-body{
+    height: 400px;
+    overflow-y: auto;
+    padding-right: 15px;
+}
+
+.chat{
+    overflow: hidden;
+}
+.author{
+  font-weight: bold;
+}
